@@ -1,0 +1,2 @@
+# Java-HeapImplementation-Alex-S
+This is my implementation of a heapsort algorrithm in java. There is lots of work I can do on this to refine it like animate the whole process in javafx or something interesting like that and naturally I want to see what something like this looks like implemented in angular and cpp languages too I will create this repository as a reference to return back to so I do not have to use word documents anymore
